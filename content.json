@@ -1,0 +1,32 @@
+[   
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic01.jpg"
+    },
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic02.jpg"
+    },
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic03.jpg"
+    },
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic04.jpg"
+    },
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic05.jpg"
+    },
+    {
+        "duration": 15,
+        "type": "img",
+        "url": "img/pic06.jpg"
+    }
+]
